@@ -120,14 +120,6 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Oscar-Espinoza/AI-Image-Generation-App/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## ⭐️ Show your support <a name="support"></a>
 
 I am thrilled to announce my new app called DALL-E. This app allows you to generate AI-generated images from writing a prompt using the OpenAI API, and share these images with the community. The tech stack I used to build this app includes React, Vite, Tailwind, Node.js, Express, MongoDB, and Mongoose.
